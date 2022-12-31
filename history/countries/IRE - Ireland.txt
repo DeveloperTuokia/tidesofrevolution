@@ -1,4 +1,6 @@
-﻿capital = 113
+﻿recruit_character = IRE_liam_lynch
+
+capital = 113
 
 oob = "IRE_1936"
 
@@ -14,17 +16,17 @@ set_technology = {
 set_convoys = 10
 
 set_politics = {
-	ruling_party = vanguardism
+	ruling_party = social_democracy
 	last_election = "1933.1.24"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	vanguardism = 16
-	socialism = 14
-	social_democracy = 14
-	liberalism = 14
-	conservatism = 14
-	autocracy = 14
-	ultranationalism = 14
+	vanguardism = 2
+	socialism = 2
+	social_democracy = 78
+	liberalism = 0
+	conservatism = 18
+	autocracy = 0
+	ultranationalism = 0
 }

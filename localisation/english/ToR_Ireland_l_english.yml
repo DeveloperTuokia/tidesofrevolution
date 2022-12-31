@@ -1,0 +1,17 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ IRE:0 "Ireland"
+ IRE_DEF:0 "Ireland"
+ IRE_ADJ:0 "Irish"
+
+# PARTIES #
+
+ IRE_vanguardism_party:0 "IWL"
+ IRE_vanguardism_party_long:0 "Irish Worker League"
+ IRE_socialism_party:0 "IWP"
+ IRE_socialism_party_long:0 "Irish Workers' Party"
+ IRE_social_democracy_party:0 "Sinn Féin"
+ IRE_conservatism_party:0 "Cumann na nGaedheal"
+ IRE_conservatism_party_long:0 "Cumann na nGaedheal (Society of the Gaels)"

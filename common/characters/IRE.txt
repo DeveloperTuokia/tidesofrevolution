@@ -1,0 +1,16 @@
+characters = {
+	IRE_liam_lynch = {
+		name = "Liam Lynch" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Liam_Lynch
+			}
+		}
+		country_leader = {
+			ideology = republicanism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

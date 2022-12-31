@@ -2,7 +2,6 @@
  
 # PLACEHOLDER COUNTRY NAMES #
 
- IRE:0 "Ireland"
  ENG:0 "United Kingdom"
  POR:0 "Portugal"
  SPR:0 "Spain"
@@ -33,7 +32,6 @@
  GEO:0 "Georgia"
  ARM:0 "Armenia"
  AZR:0 "Azerbaijan"
- SOV:0 "Russian State"
  SWE:0 "Sweden"
 
  MOR:0 "Morocco"
