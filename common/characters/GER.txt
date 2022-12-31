@@ -1,0 +1,16 @@
+characters = {
+	GER_wilhelm_ii = {
+		name = "Wilhelm II" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Wilhelm_II
+			}
+		}
+		country_leader = {
+			ideology = monarchism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	
