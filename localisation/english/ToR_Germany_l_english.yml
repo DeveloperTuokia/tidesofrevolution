@@ -1,10 +1,27 @@
 ﻿l_english:
  
-# Country Names #
+# COUNTRY NAMES #
 
-GER_autocracy:0 "German Empire"
-GER_autocracy_DEF:0 "the German Empire"
+ GER_autocracy:0 "German Empire"
+ GER_autocracy_DEF:0 "the German Empire"
 
-GER:0 "Germany"
-GER_DEF:0 "Germany"
-GER_ADJ:0 "German"
+ GER:0 "Germany"
+ GER_DEF:0 "Germany"
+ GER_ADJ:0 "German"
+
+# PARTIES #
+
+ GER_vanguardism_party:0 "KPD"
+ GER_vanguardism_party_long:0 "Kommunistische Partei Deutschlands (Communist Party of Germany)"
+ GER_socialism_party:0 "USPD"
+ GER_socialism_party_long:0 "Unabhängige Sozialdemokratische Partei Deutschlands (Independent Social Democratic Party of Germany)"
+ GER_social_democracy_party:0 "SPD"
+ GER_social_democracy_party_long:0 "Sozialdemokratische Partei Deutschlands (Social Democratic Party of Germany"
+ GER_liberalism_party:0 "DDP"
+ GER_liberalism_party_long:0 "Deutsche Demokratische Partei (German Democratic Party"
+ GER_conservatism_party:0 "Zentrum"
+ GER_conservatism_party_long:0 "Deutsche Zentrumspartei (German Center Party)"
+ GER_autocracy_party:0 "DNVP (M)"
+ GER_autocracy_party_long:0 "Deutschnationale Volkspartei (German National People's Party) - Monarchists"
+ GER_ultranationalism_party:0 "DNVP (N)"
+ GER_ultranationalism_party_long:0 "Deutschnationale Volkspartei (German National People's Party) - Nationalists"

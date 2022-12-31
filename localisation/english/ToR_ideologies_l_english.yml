@@ -1,0 +1,46 @@
+﻿l_english:
+ 
+ vanguardism:0 "Vanguardist"
+ vanguardism_noun:0 "Vanguardism"
+ vanguardism_desc:0 "Socialist"
+ vanguardism_subideology:0 "Vanguardism"
+ vanguardism_subideology_desc:0 "Vanguardism" # DESC NEEDED
+
+ socialism:0 "Socialist"
+ socialism_noun:0 "Socialism"
+ socialism_desc:0 "Socialist"
+ socialism_subideology:0 "Socialism"
+ socialism_subideology_desc:0 "Socialism" # DESC NEEDED
+
+ social_democracy:0 "Social Democrat"
+ social_democracy_noun:0 "Social Democracy"
+ social_democracy_desc:0 "Democratic"
+ social_democracy_subideology:0 "Social Democracy"
+ social_democracy_subideology_desc:0 "Social Democracy" # DESC NEEDED
+
+ liberalism:0 "Liberal"
+ liberalism_noun:0 "Liberalism"
+ liberalism_desc:0 "Democratic"
+ liberalism_subideology:0 "Liberalism"
+ liberalism_subideology_desc:0 "Liberalism" # DESC NEEDED
+
+ conservatism:0 "Conservative"
+ conservatism_noun:0 "Conservatism"
+ conservatism_desc:0 "Democratic"
+ conservatism_subideology:0 "Conservatism"
+ conservatism_subideology_desc:0 "Conservatism" # DESC NEEDED
+
+ autocracy:0 "Autocratic"
+ autocracy_noun:0 "Autocracy"
+ autocracy_desc:0 "Autocratic"
+ autocracy_subideology:0 "Autocracy"
+ autocracy_subideology_desc:0 "Autocracy" # DESC NEEDED
+ ###
+ monarchism_subideology:0 "Monarchism"
+ monarchism_subideology_desc:0 "Monarchism" # DESC NEEDED
+
+ ultranationalism:0 "Ultranationalist"
+ ultranationalism_noun:0 "Ultranationalism"
+ ultranationalism_desc:0 "Autocratic"
+ ultranationalism_subideology:0 "Ultranationalism"
+ ultranationalism_subideology_desc:0 "Ultranationalism" # DESC NEEDED
