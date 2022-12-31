@@ -32,6 +32,9 @@
  conservatism_desc:0 "Democratic"
  conservatism_subideology:0 "Conservatism"
  conservatism_subideology_desc:0 "Conservatism" # DESC NEEDED
+ ###
+ paternalistic_conservatism_subideology:0 "Paternalistic Conservatism"
+ paternalistic_conservatism_subideology_desc:0 "Paternalistic Conservatism" # DESC NEEDED
 
  autocracy:0 "Autocratic"
  autocracy_noun:0 "Autocracy"
