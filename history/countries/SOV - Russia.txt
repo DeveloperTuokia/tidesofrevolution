@@ -1,4 +1,4 @@
-﻿recruit_character = SOV_alexander_dubrovin
+﻿recruit_character = SOV_vladimir_purishkevich
 
 capital = 219
 

@@ -1,0 +1,16 @@
+characters = {
+	SOV_vladimir_purishkevich = {
+		name = "Vladimir Purishkevich" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Vladimir_Purishkevich
+			}
+		}
+		country_leader = {
+			ideology = neotsarism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

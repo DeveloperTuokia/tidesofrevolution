@@ -44,3 +44,6 @@
  ultranationalism_desc:0 "Autocratic"
  ultranationalism_subideology:0 "Ultranationalism"
  ultranationalism_subideology_desc:0 "Ultranationalism" # DESC NEEDED
+ ###
+ neotsarism_subideology:0 "Neo-Tsarism"
+ neotsarism_subideology_desc:0 "Neo-Tsarism" # DESC NEEEDED
