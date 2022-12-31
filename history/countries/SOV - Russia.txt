@@ -1,6 +1,6 @@
 ﻿recruit_character = SOV_vladimir_purishkevich
 
-capital = 219
+capital = 195
 
 oob = "SOV_1936"
 
