@@ -17,6 +17,17 @@ bookmarks = {
 				
 			}
 		}
+
+		"SOV"={
+			history = "SOV_GATHERING_STORM_DESC"
+			ideology = ultranationalism
+			ideas = {
+
+			}
+			focuses = {
+			
+			}
+		}
 		
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"
