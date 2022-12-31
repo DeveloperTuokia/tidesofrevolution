@@ -1,0 +1,20 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ ENG:0 "United Kingdom"
+ ENG_DEF:0 "the United Kingdom"
+ ENG_ADJ:0 "British"
+
+# PARTIES #
+
+ ENG_vanguardism_party:0 "CPGB"
+ ENG_vanguardism_party_long:0 "Communist Party of Great Britain"
+ ENG_socialism_party:0 "ILP"
+ ENG_socialism_party_long:0 "Independent Labour Party"
+ ENG_social_democracy_party:0 "Labour Party"
+ ENG_social_democracy_party_long:0 "Labour Party"
+ ENG_liberalism_party:0 "Liberal Party"
+ ENG_liberalism_party_long:0 "Liberal Party"
+ ENG_conservatism_party:0 "Conservative Party"
+ ENG_conservatism_party_long:0 "Conservative and Unionist Party"

@@ -1,0 +1,16 @@
+characters = {
+	ENG_george_v = {
+		name = "George V" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_George_V
+			}
+		}
+		country_leader = {
+			ideology = paternalistic_conservatism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	
