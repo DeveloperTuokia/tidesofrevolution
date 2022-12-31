@@ -1,0 +1,17 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ CHI_autocracy:0 "Republic of China"
+ CHI_autocracy_DEF:0 "the Republic of China"
+
+ CHI:0 "China"
+ CHI_DEF:0 "China"
+ CHI_ADJ:0 "Chinese"
+
+# PARTIES #
+
+ CHI_conservatism_party:0 "KMT"
+ CHI_conservatism_party_long:0 "Kuomintang"
+ CHI_autocracy_party:0 "Fèngxì"
+ CHI_autocracy_party_long:0 "Fèngxì Jūnfá (Fengtian Clique)"

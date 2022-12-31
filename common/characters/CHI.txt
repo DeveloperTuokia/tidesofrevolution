@@ -1,0 +1,16 @@
+characters = {
+	CHI_zhang_zuolin = {
+		name = "Zhang Zuolin" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Zhang_Zuolin
+			}
+		}
+		country_leader = {
+			ideology = stratocracy_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

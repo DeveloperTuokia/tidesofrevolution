@@ -1,0 +1,42 @@
+﻿recruit_character = CHI_zhang_zuolin
+
+capital = 126
+
+oob = "CHI_1936"
+
+set_research_slots = 4
+
+set_technology = {
+	early_fighter = 1
+	early_bomber = 1
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	mass_assault = 1
+	fleet_in_being = 1
+	basic_train = 1
+	basic_naval_mines = 1
+	early_ship_hull_light = 1
+	early_ship_hull_cruiser = 1
+	basic_battery = 1
+	basic_torpedo = 1
+	coastal_defense_ships = 1
+}
+
+set_convoys = 100
+
+set_politics = {
+	ruling_party = autocracy
+	last_election = "1933.1.24"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	vanguardism = 0
+	socialism = 0
+	social_democracy = 0
+	liberalism = 0
+	conservatism = 10
+	autocracy = 90
+	ultranationalism = 0
+}
