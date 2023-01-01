@@ -1,0 +1,16 @@
+characters = {
+	AUS_charles_i = {
+		name = "Charles I" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Charles_I
+			}
+		}
+		country_leader = {
+			ideology = agrarian_conservatism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

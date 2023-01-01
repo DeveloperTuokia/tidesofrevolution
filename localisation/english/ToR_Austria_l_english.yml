@@ -1,0 +1,30 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ AUS_social_democracy:0 "United States of Greater Austria"
+ AUS_social_democracy_DEF:0 "the United States of Greater Austria"
+ AUS_social_democracy_ADJ:0 "Austrian"
+ AUS_liberalism:0 "United States of Greater Austria"
+ AUS_liberalism_DEF:0 "the United States of Greater Austria"
+ AUS_liberalism_ADJ:0 "Austrian"
+ AUS_conservatism:0 "United States of Greater Austria"
+ AUS_conservatism_DEF:0 "the United States of Greater Austria"
+ AUS_conservatism_ADJ:0 "Austrian"
+
+ AUS:0 "Austria-Hungary"
+ AUS_DEF:0 "Austria-Hungary"
+ AUS_ADJ:0 "Austro-Hungarian"
+
+# PARTIES #
+
+ AUS_social_democracy_party:0 "SDAPÖ"
+ AUS_social_democracy_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs (Social Democratic Workers' Party of Austria"
+ AUS_liberalism_party:0 "GDVP"
+ AUS_liberalism_party_long:0 "Großdeutsche Volkspartei (Greater German People's Party"
+ AUS_conservatism_party:0 "EP"
+ AUS_conservatism_party_long:0 "Einheit Partei (Unity Party)"
+ AUS_autocracy_party:0 "CS"
+ AUS_autocracy_party_long:0 "Christlichsoziale Partei (Christian Social Party)"
+ AUS_ultranationalism_party:0 "Heimatblock"
+ AUS_ultranationalism_party_long:0 "Heimatblock (Homeland Bloc)"

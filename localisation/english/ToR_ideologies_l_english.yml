@@ -35,6 +35,8 @@
  ###
  paternalistic_conservatism_subideology:0 "Paternalistic Conservatism"
  paternalistic_conservatism_subideology_desc:0 "Paternalistic Conservatism" # DESC NEEDED
+ agrarian_conservatism_subideology:0 "Agrarian Conservatism"
+ agrarian_conservatism_subideology_desc:0 "Agrarian Conservatism" # DESC NEEDED
 
  autocracy:0 "Autocratic"
  autocracy_noun:0 "Autocracy"
