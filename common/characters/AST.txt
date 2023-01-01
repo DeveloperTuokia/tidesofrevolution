@@ -1,0 +1,16 @@
+characters = {
+	AST_earle_page = {
+		name = "Earle Page" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Earle_Page
+			}
+		}
+		country_leader = {
+			ideology = social_democracy_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

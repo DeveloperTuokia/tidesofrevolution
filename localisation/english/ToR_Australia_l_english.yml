@@ -1,0 +1,20 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ AST:0 "Australia"
+ AST_DEF:0 "Australia"
+ AST_ADJ:0 "Australian"
+
+# PARTIES #
+
+ AST_vanguardism_party:0 "CPA"
+ AST_vanguardism_party_long:0 "Communist Party of Australia"
+ AST_socialism_party:0 "AILP"
+ AST_socialism_party_long:0 "Australian Independent Labor Party"
+ AST_social_democracy_party:0 "Labor"
+ AST_social_democracy_party_long:0 "Australian Labor Party"
+ AST_liberalism_party:0 "UAP"
+ AST_liberalism_party_long:0 "United Australia Party"
+ AST_conservatism_party:0 "ACP"
+ AST_conservatism_party_long:0 "Australian Country Party"

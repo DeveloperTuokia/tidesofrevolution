@@ -9,3 +9,4 @@ tags={
 name="The Tides of Revolution"
 supported_version="1.12.7"
 replace_path="history/countries"
+replace_path="common/national_focus"
