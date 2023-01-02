@@ -1,0 +1,14 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ TUR:0 "Ottoman Empire"
+ TUR_DEF:0 "the Ottoman Empire"
+ TUR_ADJ:0 "Ottoman"
+
+# PARTIES #
+
+ TUR_social_democracy_party:0 "CHP"
+ TUR_social_democracy_party_long:0 "Cumhuriyet Halk Partisi (Republican People's Party)"
+ TUR_autocracy_party:0 "Osman"
+ TUR_autocracy_party_long:0 "House of Osman"

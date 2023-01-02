@@ -1,0 +1,16 @@
+characters = {
+	TUR_abdulmejid_ii = {
+		name = "Abdulmejid II" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Abdulmejid_II
+			}
+		}
+		country_leader = {
+			ideology = monarchism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	
