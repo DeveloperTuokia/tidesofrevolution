@@ -2,6 +2,13 @@
  
 # COUNTRY NAMES #
 
+ AST_social_democracy:0 "Commonwealth of Australia"
+ AST_social_democracy_DEF:0 "the Commonwealth of Australia"
+ AST_liberalism:0 "Commonwealth of Australia"
+ AST_liberalism_DEF:0 "the Commonwealth of Australia"
+ AST_conservatism:0 "Commonwealth of Australia"
+ AST_conservatism_DEF:0 "the Commonwealth of Australia"
+
  AST:0 "Australia"
  AST_DEF:0 "Australia"
  AST_ADJ:0 "Australian"

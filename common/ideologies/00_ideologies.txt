@@ -161,6 +161,10 @@ ideologies = {
 
 			liberalism_subideology = {
 			}
+
+			social_liberalism_subideology = {
+				can_be_randomly_selected = no
+			}
 		}
 
 		dynamic_faction_names = {

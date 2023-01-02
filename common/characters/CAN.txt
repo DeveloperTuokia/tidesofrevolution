@@ -1,0 +1,16 @@
+characters = {
+	CAN_john_buchan = {
+		name = "John Buchan" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_John_Buchan
+			}
+		}
+		country_leader = {
+			ideology = social_liberalism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

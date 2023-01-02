@@ -1,0 +1,17 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ CAN_liberalism:0 "Dominion of Canada"
+ CAN_liberalism_DEF:0 "the Dominion of Canada"
+ CAN_conservatism:0 "Dominion of Canada"
+ CAN_conservatism_DEF:0 "the Dominion of Canada"
+
+# PARTIES #
+
+ CAN_socialism_party:0 "CCF"
+ CAN_socialism_party_long:0 "Co-operative Commonwealth Federation"
+ CAN_liberalism_party:0 "LPC"
+ CAN_liberalism_party_long:0 "Liberal Party of Canada"
+ CAN_conservatism_party:0 "CPC"
+ CAN_conservatism_party_long:0 "Conservative Party of Canada"
