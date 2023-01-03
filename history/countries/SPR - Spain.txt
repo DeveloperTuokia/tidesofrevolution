@@ -1,0 +1,53 @@
+﻿recruit_character = SPR_joaquin_maurin
+
+capital = 41
+
+oob = "SPR_1936"
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	basic_train = 1
+	basic_naval_mines = 1
+	submarine_mine_laying = 1
+	early_ship_hull_light = 1
+	basic_ship_hull_light = 1
+	early_ship_hull_submarine = 1
+	basic_ship_hull_submarine = 1
+	early_ship_hull_cruiser = 1
+	basic_ship_hull_cruiser = 1
+	early_ship_hull_heavy = 1
+	basic_battery = 1
+	basic_medium_battery = 1
+	basic_torpedo = 1
+	basic_depth_charges = 1
+	mtg_transport = 1
+	camelry = 1
+
+}
+
+set_convoys = 100
+
+set_politics = {
+	ruling_party = vanguardism
+	last_election = "1933.1.24"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	vanguardism = 66
+	socialism = 15
+	social_democracy = 7
+	liberalism = 5
+	conservatism = 0
+	autocracy = 0
+	ultranationalism = 7
+}

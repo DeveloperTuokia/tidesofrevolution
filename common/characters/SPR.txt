@@ -1,0 +1,16 @@
+characters = {
+	SPR_joaquin_maurin = {
+		name = "Joaquín Maurín" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Joaquin_Maurin
+			}
+		}
+		country_leader = {
+			ideology = right_communism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

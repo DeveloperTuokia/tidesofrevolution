@@ -5,6 +5,9 @@
  vanguardism_desc:0 "Socialist"
  vanguardism_subideology:0 "Vanguardism"
  vanguardism_subideology_desc:0 "Vanguardism" # DESC NEEDED
+ ###
+ right_communism_subideology:0 "Right Communism"
+ right_communism_subideology_desc:0 "Right Communism" # DESC NEEDED
 
  socialism:0 "Socialist"
  socialism_noun:0 "Socialism"
@@ -26,6 +29,9 @@
  liberalism_desc:0 "Democratic"
  liberalism_subideology:0 "Liberalism"
  liberalism_subideology_desc:0 "Liberalism" # DESC NEEDED
+ ###
+ social_liberalism_subideology:0 "Social Liberalism"
+ social_liberalism_subideology_desc:0 "Social Liberalism" # DESC NEEDED
 
  conservatism:0 "Conservative"
  conservatism_noun:0 "Conservatism"
