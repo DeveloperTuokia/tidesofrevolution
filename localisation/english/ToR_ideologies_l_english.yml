@@ -54,6 +54,10 @@
  ###
  monarchism_subideology:0 "Monarchism"
  monarchism_subideology_desc:0 "Monarchism" # DESC NEEDED
+ stratocracy_subideology:0 "Stratocracy"
+ stratocracy_subideology_desc:0 "Stratocracy" # DESC NEEDED
+ provisional_government_subideology:0 "Provisional Government"
+ provisional_government_subideology_desc:0 "Provisional Government" # DESC NEEDED
 
  ultranationalism:0 "Ultranationalist"
  ultranationalism_noun:0 "Ultranationalism"

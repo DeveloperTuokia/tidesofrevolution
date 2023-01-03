@@ -300,6 +300,9 @@ ideologies = {
 			stratocracy_subideology = {
 				can_be_randomly_selected = no
 			}
+			provisional_government_subideology = {
+				can_be_randomly_selected = no
+			}
 		}
 
 		dynamic_faction_names = {

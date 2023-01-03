@@ -1,0 +1,12 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ KAZ:0 "Alash Autonomy"
+ KAZ_DEF:0 "the Alash Autonomy"
+ KAZ_ADJ:0 "Alash"
+
+# PARTIES #
+
+ AST_autocracy_party:0 "Alash"
+ AST_autocracy_party_long:0 "Alash"

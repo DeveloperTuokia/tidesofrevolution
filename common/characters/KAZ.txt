@@ -1,0 +1,16 @@
+characters = {
+	KAZ_alikhan_bukeikhanov = {
+		name = "Alikhan Bukeikhanov" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Alikhan_Bukeikhanov
+			}
+		}
+		country_leader = {
+			ideology = provisional_government_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	
