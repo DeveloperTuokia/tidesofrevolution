@@ -1,0 +1,16 @@
+characters = {
+	FRA_maurice_thorez = {
+		name = "Maurice Thorez" 
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_Maurice_Thorez
+			}
+		}
+		country_leader = {
+			ideology = totalitarian_communism_subideology
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
+	

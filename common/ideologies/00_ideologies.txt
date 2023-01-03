@@ -10,6 +10,9 @@ ideologies = {
 			right_communism_subideology = {
 				can_be_randomly_selected = no
 			}
+			totalitarian_communism_subideology = {
+				can_be_randomly_selected = no
+			}
 		}
 
 		dynamic_faction_names = {

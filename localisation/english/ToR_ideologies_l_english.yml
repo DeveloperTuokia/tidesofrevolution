@@ -8,6 +8,8 @@
  ###
  right_communism_subideology:0 "Right Communism"
  right_communism_subideology_desc:0 "Right Communism" # DESC NEEDED
+ totalitarian_communism_subideology:0 "Totalitarian Communism"
+ totalitarian_communism_subideology_desc:0 "Totalitarian Communism" # DESC NEEDED
 
  socialism:0 "Socialist"
  socialism_noun:0 "Socialism"

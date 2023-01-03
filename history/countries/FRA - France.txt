@@ -1,0 +1,57 @@
+﻿recruit_character = FRA_maurice_thorez
+
+capital = 16
+
+oob = "FRA_1936"
+
+set_research_slots = 4
+
+set_technology = {
+	aa_lmg = 1
+	aa_cannon_1 = 1
+	engines_1 = 1
+	engines_2 = 1
+	early_bombs = 1
+	aircraft_construction = 1
+	iw_small_airframe = 1
+	iw_medium_airframe = 1
+	iw_large_airframe = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_mountaineers = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	trench_warfare = 1
+	fleet_in_being = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	basic_train = 1
+	gwtank_chassis = 1
+	basic_light_tank_chassis = 1
+	basic_heavy_tank_chassis = 1
+	improved_light_tank_chassis = 1
+	armor_tech_1 = 1
+	engine_tech_1 = 1
+}
+
+set_convoys = 200
+
+set_politics = {
+	ruling_party = vanguardism
+	last_election = "1933.1.24"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	vanguardism = 40
+	socialism = 30
+	social_democracy = 10
+	liberalism = 0
+	conservatism = 0
+	autocracy = 0
+	ultranationalism = 20
+}

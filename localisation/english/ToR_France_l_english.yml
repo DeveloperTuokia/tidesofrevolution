@@ -1,0 +1,25 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ FRA_vanguardism:0 "French Socialist Republic"
+ FRA_vanguardism_DEF:0 "the French Socialist Republic"
+ FRA_socialism:0 "French Socialist Republic"
+ FRA_socialism_DEF:0 "the French Socialist Republic"
+ FRA_ultranationalism:0 "French Socialist Republic"
+ FRA_ultranationalism_DEF:0 "the French Socialist Republic"
+
+ FRA:0 "France"
+ FRA_DEF:0 "France"
+ FRA_ADJ:0 "French"
+
+# PARTIES #
+
+ FRA_vanguardism_party:0 "PCF - T"
+ FRA_vanguardism_party_long:0 "Parti Communiste Français (French Communist Party) - Thorezists"
+ FRA_socialism_party:0 "PCF - M"
+ FRA_socialism_party_long:0 "Parti Communiste Français (French Communist Party) - Moderates"
+ FRA_social_democracy_party:0 "Front Populaire"
+ FRA_social_democracy_party_long:0 "Front Populaire (Popular Front)"
+ FRA_ultranationalism_party:0 "PCF - R"
+ FRA_ultranationalism_party_long:0 "Parti Communiste Français (French Communist Party) - Revanchists"
