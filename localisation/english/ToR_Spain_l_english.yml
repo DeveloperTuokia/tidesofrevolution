@@ -13,11 +13,13 @@
 
 # PARTIES #
 
- SOV_vanguardism_party:0 "RSDRP - B"
- SOV_vanguardism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya (Russian Social Democratic Labour Party) - Bolsheviks"
- SOV_socialism_party:0 "RSDRP - M"
- SOV_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya (Russian Social Democratic Labour Party) - Mensheviks"
- SOV_autocracy_party:0 "Russkoye Sobraniye"
- SOV_autocracy_party_long:0 "Russkoye Sobraniye (Russian Assembly)"
- SOV_ultranationalism_party:0 "SRN"
- SOV_ultranationalism_party_long:0 "Soyuz Russkogo Naroda (Union of the Russian People)"
+ SPR_vanguardism_party:0 "POUM - R"
+ SPR_vanguardism_party_long:0 "Partido Obrero de Unificación Marxista (Workers' Party of Marxist Unification) - Rightists"
+ SPR_socialism_party:0 "POUM - L"
+ SPR_socialism_party_long:0 "Partido Obrero de Unificación Marxista (Workers' Party of Marxist Unification) - Leftists"
+ SPR_social_democracy_party:0 "PSOE"
+ SPR_social_democracy_party_long:0 "Partido Socialista Obrero Español (Spanish Socialist Workers' Party)"
+ SPR_liberalism_party:0 "IR"
+ SPR_liberalism_party_long:0 "Izquierda Republicana (Republican Left)"
+ SPR_ultranationalism_party:0 "FE"
+ SPR_ultranationalism_party_long:0 "Falange Española (Spanish Phalanx)"

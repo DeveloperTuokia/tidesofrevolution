@@ -1,9 +1,8 @@
 ﻿l_english:
  
-# PLACEHOLDER COUNTRY NAMES #
+### PLACEHOLDER COUNTRY NAMES ###
 
  POR:0 "Portugal"
- SPR:0 "Spain"
  FRA:0 "French Socialist Republic"
  BEL:0 "Belgium"
  LUX:0 "Luxembourg"
@@ -74,7 +73,6 @@
  NZL:0 "New Zealand"
  HAW:0 "Pacific Fleet"
 
- CAN:0 "Canada"
  MEX:0 "Mexico"
  CUB:0 "Cuba"
  HAI:0 "Haiti"
