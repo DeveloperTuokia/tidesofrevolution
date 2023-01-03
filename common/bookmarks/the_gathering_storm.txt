@@ -18,9 +18,20 @@ bookmarks = {
 			}
 		}
 
-		"SOV"={
-			history = "SOV_GATHERING_STORM_DESC"
-			ideology = ultranationalism
+		"AUS"={
+			history = "AUS_GATHERING_STORM_DESC"
+			ideology = conservatism
+			ideas = {
+
+			}
+			focuses = {
+			
+			}
+		}
+
+		"FRA"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = vanguardism
 			ideas = {
 
 			}
