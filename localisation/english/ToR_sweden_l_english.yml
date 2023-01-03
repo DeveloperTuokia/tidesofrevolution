@@ -1,0 +1,26 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ SWE_social_democracy:0 "Sweden"
+ SWE_social_democracy_DEF:0 "Sweden"
+
+
+ SWE:0 "Sweden"
+ SWE_DEF:0 "Sweden"
+ SWE_ADJ:0 "Swedish"
+
+# PARTIES #
+
+ SWE_vanguardism_party:0 "Communist Party (radicals)"
+ SWE_vanguardism_party_long:0 ""
+ SWE_socialism_party:0 "Communist Party (moderates)"
+ SWE_socialism_party_long:0 ""
+ SWE_social_democracy_party:0 "Swedish Social Democratic Party"
+ SWE_social_democracy_party_long:0 ""
+ SWE_liberalism_party:0 "Farmers’ League"
+ SWE_liberalism_party_long:0 ""
+ SWE_ultranationalism_party:0 "New Swedish People’s League"
+ SWE_ultranationalism_party_long:0 ""
+ SWE_Conservatism_party:0 "General Electoral League"
+ SWE_Conservatism_party_long:0 ""

@@ -1,0 +1,19 @@
+﻿recruit_character = SWE_Gustaf_V
+
+capital = 141
+
+set_politics = {
+	ruling_party = social_democracy
+	last_election = ""
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	vanguardism = 2
+	socialism = 5
+	social_democracy = 41
+	liberalism = 23
+	conservatism = 24
+	ultranationalism = 5
+}
+

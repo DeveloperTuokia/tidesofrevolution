@@ -1,0 +1,15 @@
+characters = {
+	SWE_Gustaf_V = {
+		name = "Gustaf V" 
+		portraits = {
+			civilian = {
+				large = 
+			}
+		}
+		country_leader = {
+			ideology = social_democracy_subideology
+			id = -1
+		}
+	}
+}
+	

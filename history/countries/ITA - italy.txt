@@ -1,0 +1,17 @@
+﻿recruit_character = ITA_Victor_Emmanuel_III
+
+capital = 2
+
+set_politics = {
+	ruling_party = conservatism
+	last_election = ""
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	socialism = 20
+	liberalism = 15
+	conservatism = 40
+	ultranationalism = 25
+}
+

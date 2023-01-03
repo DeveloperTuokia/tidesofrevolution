@@ -1,0 +1,16 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ INS_social_democracy:0 "Dutch East Indies"
+ INS_social_democracy_DEF:0 "The Dutch East Indies"
+
+
+ INS:0 "Dutch East Indies"
+ INS_DEF:0 "Dutch East Indies"
+ INS_ADJ:0 "Indonesia"
+
+# PARTIES #
+
+ INS_autocracy_party:0 "Colonial Government"
+ INS_autocracy_party_long:0 ""

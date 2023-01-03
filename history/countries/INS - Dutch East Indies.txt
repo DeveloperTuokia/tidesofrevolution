@@ -1,0 +1,14 @@
+﻿recruit_character = INS_Bonifacius_Cornelis_de_Jonge
+
+capital = 335
+
+set_politics = {
+	ruling_party = autocracy
+	last_election = ""
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	autocracy = 100
+}
+

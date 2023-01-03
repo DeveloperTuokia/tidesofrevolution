@@ -1,0 +1,15 @@
+characters = {
+	INS_Bonifacius_Cornelis_de_Jonge = {
+		name = "Bonifacius Cornelis de Jonge" 
+		portraits = {
+			civilian = {
+				large = 
+			}
+		}
+		country_leader = {
+			ideology = autocracy_subideology
+			id = -1
+		}
+	}
+}
+	

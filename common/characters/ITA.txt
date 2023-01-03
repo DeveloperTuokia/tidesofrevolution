@@ -1,0 +1,15 @@
+characters = {
+	ITA_Victor_Emmanuel_III = {
+		name = "Victor Emmanuel III" 
+		portraits = {
+			civilian = {
+				large = 
+			}
+		}
+		country_leader = {
+			ideology = christian_democracy_subideology
+			id = -1
+		}
+	}
+}
+	

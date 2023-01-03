@@ -1,0 +1,26 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ ITA_Conservatism:0 "Italy"
+ ITA_Conservatism_DEF:0 "Italy"
+
+
+ ITA:0 "Italy"
+ ITA_DEF:0 "Italy"
+ ITA_ADJ:0 "Italian"
+
+# PARTIES #
+
+ ITA_vanguardism_party:0 ""
+ ITA_vanguardism_party_long:0 ""
+ ITA_socialism_party:0 "Italian Socialist Party"
+ ITA_socialism_party_long:0 ""
+ ITA_social_democracy_party:0 ""
+ ITA_social_democracy_party_long:0 ""
+ ITA_liberalism_party:0 "Agreed List of Liberals, Democrats, and Radicals"
+ ITA_liberalism_party_long:0 ""
+ ITA_ultranationalism_party:0 "National Bloc"
+ ITA_ultranationalism_party_long:0 ""
+ ITA_Conservatism_party:0 "Italian People’s Party (Christian Democracy)"
+ ITA_Conservatism_party_long:0 "Italian People’s Party (Christian Democracy)"
