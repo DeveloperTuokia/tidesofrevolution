@@ -14,11 +14,11 @@
 
 # PARTIES #
 
- FIN_vanguardism_party:0 "Communist Party of Finland"
- FIN_vanguardism_party_long:0 ""
- FIN_socialism_party:0 "Social Democratic Party of Finland"
- FIN_socialism_party_long:0 ""
- FIN_social_democracy_party:0 "People’s Party"
- FIN_social_democracy_party_long:0 ""
- FIN_autocracy_party:0 "Patriotic People’s Movement"
- FIN_autocracy_party_long:0 ""
+ FIN_vanguardism_party:0 "CPF"
+ FIN_vanguardism_party_long:0 "Communist Party of Finland"
+ FIN_socialism_party:0 "SDPF"
+ FIN_socialism_party_long:0 "Social Democratic Party of Finland"
+ FIN_social_democracy_party:0 "PP"
+ FIN_social_democracy_party_long:0 "People’s Party"
+ FIN_autocracy_party:0 "PPM"
+ FIN_autocracy_party_long:0 "Patriotic People’s Movement"
