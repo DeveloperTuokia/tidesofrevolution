@@ -1,0 +1,24 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ #name change?#
+ 
+ FIN_socialism:0 "Finnish Socialist Workers’ Republic"
+ FIN_socialism_DEF:0 ""
+
+
+ FIN:0 "Finland"
+ FIN_DEF:0 "Finland"
+ FIN_ADJ:0 "Finnish"
+
+# PARTIES #
+
+ FIN_vanguardism_party:0 "Communist Party of Finland"
+ FIN_vanguardism_party_long:0 ""
+ FIN_socialism_party:0 "Social Democratic Party of Finland"
+ FIN_socialism_party_long:0 ""
+ FIN_social_democracy_party:0 "People’s Party"
+ FIN_social_democracy_party_long:0 ""
+ FIN_autocracy_party:0 "Patriotic People’s Movement"
+ FIN_autocracy_party_long:0 ""

@@ -1,0 +1,15 @@
+characters = {
+	FIN_Kullervo_Manner = {
+		name = "Kullervo Manner" 
+		portraits = {
+			civilian = {
+				large = 
+			}
+		}
+		country_leader = {
+			ideology = socialism_subideology
+			id = -1
+		}
+	}
+}
+	

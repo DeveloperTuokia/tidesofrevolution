@@ -1,0 +1,17 @@
+﻿recruit_character = FIN_Kullervo_Manner
+
+capital = 141
+
+set_politics = {
+	ruling_party = socialism
+	last_election = ""
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	vanguardism = 12
+	socialism = 76
+	social_democracy = 6
+	autocracy = 6
+}
+
