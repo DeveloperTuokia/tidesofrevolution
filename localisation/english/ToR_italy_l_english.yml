@@ -2,9 +2,8 @@
  
 # COUNTRY NAMES #
 
- ITA_Conservatism:0 "Italy"
- ITA_Conservatism_DEF:0 "Italy"
-
+ ITA_conservatism:0 "Italy"
+ ITA_conservatism_DEF:0 "Italy"
 
  ITA:0 "Italy"
  ITA_DEF:0 "Italy"
@@ -12,15 +11,11 @@
 
 # PARTIES #
 
- ITA_vanguardism_party:0 ""
- ITA_vanguardism_party_long:0 ""
- ITA_socialism_party:0 "Italian Socialist Party"
- ITA_socialism_party_long:0 ""
- ITA_social_democracy_party:0 ""
- ITA_social_democracy_party_long:0 ""
- ITA_liberalism_party:0 "Agreed List of Liberals, Democrats, and Radicals"
- ITA_liberalism_party_long:0 ""
- ITA_ultranationalism_party:0 "National Bloc"
- ITA_ultranationalism_party_long:0 ""
- ITA_Conservatism_party:0 "Italian People’s Party (Christian Democracy)"
- ITA_Conservatism_party_long:0 "Italian People’s Party (Christian Democracy)"
+ ITA_socialism_party:0 "PSI"
+ ITA_socialism_party_long:0 "Partito Socialista Italiano (Italian Socialist Party)"
+ ITA_liberalism_party:0 "LDR"
+ ITA_liberalism_party_long:0 "Liste Concordate di Liberali, Democratici e Radicali (Agreed Lists of Liberals, Democrats and Radicals"
+ ITA_ultranationalism_party:0 "BN"
+ ITA_ultranationalism_party_long:0 "Blocco Nazionale (National Bloc)"
+ ITA_conservatism_party:0 "PPI"
+ ITA_conservatism_party_long:0 "Partito Popolare Italiano (Italian People's Party)"

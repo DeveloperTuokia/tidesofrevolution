@@ -1,48 +1,46 @@
-﻿recruit_character = SWE_Gustaf_V
+﻿recruit_character = INS_Bonifacius_Cornelis_de_Jonge
 
-capital = 141
+capital = 335
 
 set_technology = {
-	iw_small_airframe = 1
 	aa_lmg = 1
 	engines_1 = 1
+	aircraft_construction = 1
+	iw_small_airframe = 1
+	iw_medium_airframe = 1
+	early_bombs = 1
 	infantry_weapons = 1
 	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_recon = 1
 	gw_artillery = 1
 	interwar_antiair = 1
-	tech_recon = 1
-	tech_support = 1		
-	tech_engineers = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
 	basic_train = 1
-	gwtank_chassis = 1
-	basic_light_tank_chassis = 1
 	basic_naval_mines = 1
 	submarine_mine_laying = 1
 	early_ship_hull_light = 1
-	basic_ship_hull_light = 1
 	early_ship_hull_submarine = 1
 	basic_ship_hull_submarine = 1
 	early_ship_hull_cruiser = 1
+	basic_ship_hull_cruiser = 1
 	basic_battery = 1
-	basic_cruiser_armor_scheme = 1
 	basic_torpedo = 1
 	basic_depth_charges = 1
+	basic_cruiser_armor_scheme = 1
 	coastal_defense_ships = 1
 	mtg_transport = 1
 }
 
 set_politics = {
-	ruling_party = social_democracy
+	ruling_party = autocracy
 	last_election = ""
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	vanguardism = 2
-	socialism = 5
-	social_democracy = 41
-	liberalism = 23
-	conservatism = 24
-	ultranationalism = 5
+	autocracy = 100
 }
 
