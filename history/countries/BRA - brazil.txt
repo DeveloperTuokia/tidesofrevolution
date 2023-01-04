@@ -1,6 +1,6 @@
-﻿recruit_character = FIN_Kullervo_Manner
+﻿recruit_character = BRA_Luís_Carlos_Prestes
 
-capital = 111
+capital = 501
 
 set_politics = {
 	ruling_party = socialism
@@ -9,9 +9,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	vanguardism = 12
-	socialism = 76
-	social_democracy = 6
-	autocracy = 6
+	vanguardism = 45
+	socialism = 55
 }
 

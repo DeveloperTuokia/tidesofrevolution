@@ -16,6 +16,8 @@
  socialism_desc:0 "Socialist"
  socialism_subideology:0 "Socialism"
  socialism_subideology_desc:0 "Socialism" # DESC NEEDED
+ socialism_internationalism_subideology:0 "Internationalism Socialism"
+ socialism_internationalism_subideology_desc:0 "Internationalism Socialism" # DESC NEEDED
 
  social_democracy:0 "Social Democrat"
  social_democracy_noun:0 "Social Democracy"

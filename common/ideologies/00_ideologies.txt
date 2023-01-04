@@ -60,6 +60,9 @@ ideologies = {
 
 			socialism_subideology = {
 			}
+			
+			socialism_internationalism_subideology = {
+			}
 		}
 
 		dynamic_faction_names = {

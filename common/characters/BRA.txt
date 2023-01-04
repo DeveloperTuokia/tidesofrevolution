@@ -1,0 +1,15 @@
+characters = {
+	BRA_Luís_Carlos_Prestes = {
+		name = "Luís Carlos Prestes" 
+		portraits = {
+			civilian = {
+				large = 
+			}
+		}
+		country_leader = {
+			ideology = socialism_internationalism_subideology
+			id = -1
+		}
+	}
+}
+	

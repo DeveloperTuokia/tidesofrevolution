@@ -1,0 +1,19 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ BRA_socialism:0 "Brazilian Union"
+ BRA_socialism_DEF:0 "The Brazilian Union"
+
+
+ BRA:0 "Brazil"
+ BRA_DEF:0 "Brazil"
+ BRA_ADJ:0 "Brazilian"
+
+# PARTIES #
+
+ BRA_vanguardism_party:0 "National Liberation Alliance (vanguardists)"
+ BRA_vanguardism_party_long:0 ""
+ BRA_socialism_party:0 "National Liberation Alliance (panamericanists)"
+ BRA_socialism_party_long:0 ""
+ 
