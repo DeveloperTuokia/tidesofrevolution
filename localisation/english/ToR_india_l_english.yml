@@ -1,0 +1,20 @@
+﻿l_english:
+ 
+# COUNTRY NAMES #
+
+ IND_social_liberalism:0 "Indian Republic"
+ IND_social_liberalism_DEF:0 "The Indian Republic"
+
+
+ IND:0 "Indian Republic"
+ IND_DEF:0 "India"
+ IND_ADJ:0 "Indian"
+
+# PARTIES #
+
+ IND_social_democracy_party:0 "Indian National Congress (Socialists)"
+ IND_social_democracy_party_long:0 ""
+ IND_ultranationalism_party:0 "Congress Nationalist Party"
+ IND_ultranationalism_party_long:0 ""
+ IND_liberalism_party:0 " Indian National Congress (Liberals)"
+ IND_liberalism_party_long:0 ""

@@ -1,0 +1,16 @@
+﻿recruit_character = IND_Jawaharlal_Nehru
+
+capital = 426
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1934.1.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	social_democracy = 40
+	liberalism = 40
+	ultranationalism = 20
+}
+

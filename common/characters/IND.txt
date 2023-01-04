@@ -1,0 +1,15 @@
+characters = {
+	IND_Jawaharlal_Nehru = {
+		name = "Jawaharlal Nehru" 
+		portraits = {
+			civilian = {
+				large = 
+			}
+		}
+		country_leader = {
+			ideology = social_liberalism_subideology
+			id = -1
+		}
+	}
+}
+	
