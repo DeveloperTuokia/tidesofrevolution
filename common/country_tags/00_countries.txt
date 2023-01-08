@@ -115,3 +115,13 @@ CHL = "countries/Chile.txt"
 ARG = "countries/Argentina.txt"
 URG = "countries/Uruguay.txt"
 PAR = "countries/Paraguay.txt"
+
+# SECOND AMERICAN CIVIL WAR #
+
+USG = "countires/USGovernment.txt"
+TEX = "countries/Texas.txt"
+MDW = "countries/Midwest.txt"
+FST = "countries/FreeStates.txt"
+SOU = "countries/SouthUSA.txt"
+NEN = "countries/NewEngland.txt"
+CSA = "countries/ConfederateStates.txt"
