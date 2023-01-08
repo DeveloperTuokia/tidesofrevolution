@@ -1,5 +1,5 @@
 characters = {
-	BRA_Luís_Carlos_Prestes = {
+	BRA_Luis_Carlos_Prestes = {
 		name = "Luís Carlos Prestes" 
 		portraits = {
 			civilian = {
@@ -7,7 +7,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = socialism_internationalism_subideology
+			ideology = internationalism_subideology
 			id = -1
 		}
 	}

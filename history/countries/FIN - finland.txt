@@ -2,6 +2,24 @@
 
 capital = 111
 
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	gw_artillery = 1			
+	interwar_antiair = 1
+	tech_support = 1		
+	tech_recon = 1
+	tech_engineers = 1
+	basic_train = 1
+	basic_naval_mines = 1
+	submarine_mine_laying = 1
+	early_ship_hull_light = 1
+	early_ship_hull_submarine = 1
+	early_ship_hull_cruiser = 1
+	basic_battery = 1
+	coastal_defense_ships = 1
+}
+
 set_politics = {
 	ruling_party = socialism
 	last_election = ""

@@ -61,7 +61,7 @@ ideologies = {
 			socialism_subideology = {
 			}
 			
-			socialism_internationalism_subideology = {
+			internationalism_subideology = {
 			}
 		}
 
