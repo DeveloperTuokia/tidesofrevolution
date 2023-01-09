@@ -368,6 +368,7 @@ BRA = {
 }
 CHL = {
 	color = rgb { 89 89 89 }
+	color_ui = rgb { 89 89 89 }
 }
 ARG = {
 	color = rgb { 132 165 66 }
@@ -380,4 +381,32 @@ URG = {
 PAR = {
 	color = rgb { 132 165 66 }
 	color_ui = rgb { 132 165 66 }
+}
+USG = {
+	color = rgb { 66 132 165 }
+	color_ui = rgb { 66 132 165 }
+}
+TEX = {
+	color = rgb { 66 132 165 }
+	color_ui = rgb { 66 132 165 }
+}
+MDW = {
+	color = rgb { 216 86 123 }
+	color_ui = rgb { 216 86 123 }
+}
+FST = {
+	color = rgb { 165 146 65 }
+	color_ui = rgb { 165 146 65 }
+}
+SOU = {
+	color = rgb { 163 163 163 }
+	color_ui = rgb { 163 163 163 }
+}
+NEN = {
+	color = rgb { 216 86 123 }
+	color_ui = rgb { 216 86 123 }
+}
+CSA = {
+	color = rgb { 62 62 89 }
+	color_ui = rgb { 62 62 89 }
 }
