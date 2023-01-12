@@ -4,7 +4,17 @@ state={
 	provinces={
 		4723 4760 7688 7888 10640 12561 12633 
 	}
-	manpower=0
+	history={
+		owner = USG
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = USG
+
+	}
+	manpower=225564
 	buildings_max_level_factor=1.000
+	state_category=rural
 	local_supplies=0.000
 }

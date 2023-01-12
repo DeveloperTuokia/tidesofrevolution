@@ -4,7 +4,33 @@ state={
 	provinces={
 		1927 2019 2042 4884 5061 6785 6987 10337 12341 12369 12410 12782 
 	}
-	manpower=0
+	history={
+		owner = KTX
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 9
+			air_base = 3
+			10337 = {
+				naval_base = 3
+
+			}
+			6785 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = KTX
+		victory_points = {
+			10337 10 
+		}
+		victory_points = {
+			12782 1 
+		}
+
+	}
+	manpower=5824712
 	buildings_max_level_factor=1.000
-	local_supplies=0.000
+	state_category=metropolis
+	local_supplies=9.000
 }

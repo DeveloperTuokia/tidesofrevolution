@@ -9,12 +9,12 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = USG
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = USA
+		add_core_of = USG
 		victory_points = {
 			9616 1 
 		}

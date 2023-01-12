@@ -4,7 +4,34 @@ state={
 	provinces={
 		492 860 7640 10520 11942 
 	}
-	manpower=0
+	history={
+		owner = CSA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			7480 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = CSA
+		victory_points = {
+			7480 1 
+		}
+		victory_points = {
+			12735 1 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+
+			}
+
+		}
+
+	}power=2646247
 	buildings_max_level_factor=1.000
+	state_category=city
 	local_supplies=0.000
 }

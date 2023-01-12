@@ -4,7 +4,7 @@ state={
 	name="STATE_367"
 
 	history={
-		owner = USA
+		owner = SOU
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3
@@ -14,7 +14,7 @@ state={
 			}
 
 		}
-		add_core_of = USA
+		add_core_of = SOU
 		victory_points = {
 			7480 1 
 		}
